@@ -15,6 +15,6 @@ public class BubbleSort {
      */
     public static void main(String[] args) {
         BubbleForm bubble = new BubbleForm();
-        bubble.setVisible(true); //Malucaaaaa
+        bubble.setVisible(true); //Linea creada por sneider
     }
 }
